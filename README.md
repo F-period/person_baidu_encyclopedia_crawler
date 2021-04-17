@@ -1,0 +1,2 @@
+# person_baidu_encyclopedia_crawler
+这是借助python的scrapy框架实现百度百科爬虫，用于为人物知识图谱构建爬取源数据。
